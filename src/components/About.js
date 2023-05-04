@@ -9,7 +9,7 @@ function About({ bio, links }) {
       <img src="https://i.imgur.com/mV8PQxj.gif" alt="I made this" />
       <Links github={links.github} linkedin={links.linkedin} />
     </div>
-  );
-}
+    );
+  }
 
 export default About;
